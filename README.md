@@ -29,7 +29,7 @@ const aryan = {
 ### 🧰 Tools & technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,express,react,threejs,mongodb,influxdb,mqtt,git,github,vercel,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,express,react,threejs,mongodb,git,github,vercel,vscode&perline=7" />
 </p>
 
 ### 📌 Projects

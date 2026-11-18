@@ -38,8 +38,6 @@ const aryan = {
 |---|---|---|
 | **[Countr](https://github.com/Aryan-Jangra07/countr)** · [live](https://countr-one.vercel.app) | Bookkeeping app for small shops: sales, expenses, credit, stock and GST bills | Node.js, three.js |
 | **[IoT Telemetry Platform](https://github.com/Aryan-Jangra07/IoT-device-telemetry-management)** | Manage IoT devices and view live telemetry on a dashboard | MQTT, InfluxDB, MongoDB, React |
-| **[Gnani Flow](https://github.com/Aryan-Jangra07/Gnani-Flow)** | Schedules meetings and sends emails through Google Calendar and Gmail | Node.js, Google APIs |
-| **[Volunteer Platform](https://github.com/Aryan-Jangra07/Volunteer-Nonprofit-Management-Platform)** · [live](https://volunteer-nonprofit-management-plat.vercel.app) | Helps nonprofits organise volunteers | JavaScript |
 
 ### 📈 Stats
 
